@@ -1,0 +1,37 @@
+
+
+ 
+h1{ color: deepskyblue; font-size: 70px;}
+
+
+ links {
+     float:right;
+     color: dodgerblue;
+     padding-top: 5px;
+     padding-left: 9px;
+     padding-right: 9px;
+     padding-bottom: 5px;
+     font-family: fantasy;
+     font-size: 20px;}
+         
+ 
+
+links:hover{
+     background-color: cornflowerblue;
+     
+    
+ }
+     
+h2 {font-size: 50px; font-family: fantasy;}
+h3 {font-size: 40px ;  font-family:fantasy;}
+h4{font-size: 40px ;  font-family: fantasy;}
+h5{font-size: 40px ;  font-family: fantasy;}
+h6{font-size:  40px ;  font-family: fantasy;}
+h7{font-size:  40px ;  font-family:fantasy;}
+
+html {
+    height: 100%;
+}
+body {
+  background-color:#cccccc;
+}
